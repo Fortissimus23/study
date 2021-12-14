@@ -1,0 +1,5 @@
+﻿  ЛР №6.cpp
+C:\Users\ilya\Desktop\study\КС\ЛР №6\ЛР №6\ЛР №6.cpp(98,32): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\ilya\Desktop\study\КС\ЛР №6\ЛР №6\ЛР №6.cpp(57,12): warning C4101: mod: неиспользованная локальная переменная
+C:\Users\ilya\Desktop\study\КС\ЛР №6\ЛР №6\ЛР №6.cpp(57,7): warning C4101: bin: неиспользованная локальная переменная
+  ЛР №6.vcxproj -> C:\Users\ilya\Desktop\study\КС\ЛР №6\x64\Debug\ЛР №6.exe

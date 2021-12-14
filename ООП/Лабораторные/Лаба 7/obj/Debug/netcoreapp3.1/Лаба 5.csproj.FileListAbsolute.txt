@@ -1,0 +1,42 @@
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.exe
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.deps.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.dev.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\bin\Debug\netcoreapp3.1\Лаба 5.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.csproj.AssemblyReference.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfo.cs
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 5\Лаба 5\obj\Debug\netcoreapp3.1\Лаба 5.genruntimeconfig.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 5.exe
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 5.deps.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.dev.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 5.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 5.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.csproj.AssemblyReference.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfo.cs
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 5.genruntimeconfig.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\bin\Debug\netcoreapp3.1\Лаба 5.exe
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\bin\Debug\netcoreapp3.1\Лаба 5.deps.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\bin\Debug\netcoreapp3.1\Лаба 5.runtimeconfig.dev.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\bin\Debug\netcoreapp3.1\Лаба 5.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\bin\Debug\netcoreapp3.1\Лаба 5.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.csproj.AssemblyReference.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.AssemblyInfo.cs
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 7\obj\Debug\netcoreapp3.1\Лаба 5.genruntimeconfig.cache
