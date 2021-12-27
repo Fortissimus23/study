@@ -1,0 +1,14 @@
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\bin\Debug\netcoreapp3.1\CSTEST.exe
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\bin\Debug\netcoreapp3.1\CSTEST.deps.json
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\bin\Debug\netcoreapp3.1\CSTEST.runtimeconfig.json
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\bin\Debug\netcoreapp3.1\CSTEST.runtimeconfig.dev.json
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\bin\Debug\netcoreapp3.1\CSTEST.dll
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\bin\Debug\netcoreapp3.1\CSTEST.pdb
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.csproj.AssemblyReference.cache
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.AssemblyInfo.cs
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.dll
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.pdb
+C:\Users\ilya\Desktop\study\ООП\TEST\CSTEST\obj\Debug\netcoreapp3.1\CSTEST.genruntimeconfig.cache

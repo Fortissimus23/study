@@ -1,0 +1,15 @@
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\bin\Debug\net6.0\Лаба9.exe
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\bin\Debug\net6.0\Лаба9.deps.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\bin\Debug\net6.0\Лаба9.runtimeconfig.json
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\bin\Debug\net6.0\Лаба9.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\bin\Debug\net6.0\ref\Лаба9.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\bin\Debug\net6.0\Лаба9.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.csproj.AssemblyReference.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.AssemblyInfo.cs
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\ref\Лаба9.dll
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.pdb
+C:\Users\ilya\Desktop\study\ООП\Лабораторные\Лаба 9\Лаба9\Лаба9\obj\Debug\net6.0\Лаба9.genruntimeconfig.cache
