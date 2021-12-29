@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilya\\Desktop\\study\\ООП\\Лабораторные\\Лаба 9\\Лаба9\\Лаба9\\Лаба9.csproj",
+      "projectUniqueName": "C:\\Users\\ilya\\Desktop\\домашка\\ООП\\Лабораторные\\Лаба 9\\Лаба9\\Лаба9\\Лаба9.csproj",
       "projectName": "Лаба9",
-      "projectPath": "C:\\Users\\ilya\\Desktop\\study\\ООП\\Лабораторные\\Лаба 9\\Лаба9\\Лаба9\\Лаба9.csproj",
+      "projectPath": "C:\\Users\\ilya\\Desktop\\домашка\\ООП\\Лабораторные\\Лаба 9\\Лаба9\\Лаба9\\Лаба9.csproj",
       "packagesPath": "C:\\Users\\ilya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilya\\Desktop\\study\\ООП\\Лабораторные\\Лаба 9\\Лаба9\\Лаба9\\obj\\",
+      "outputPath": "C:\\Users\\ilya\\Desktop\\домашка\\ООП\\Лабораторные\\Лаба 9\\Лаба9\\Лаба9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
